@@ -1,0 +1,9 @@
+= Font Files
+
+This repository contains a collection of fonts - each directory contains one font and the related files.
+
+Here are some fonts I drawn.
+
+* **Font Awesome Adjusted** - Font Awesome icon font adjusted to my site's needs.
+
+For details see the [[http://feherke.github.com/artwork/font/|Font section of my site]].
