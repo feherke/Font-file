@@ -6,4 +6,4 @@ Here are some fonts I drawn.
 
 * **Font Awesome Adjusted** - Font Awesome icon font adjusted to my site's needs.
 
-For details see the [[http://feherke.github.com/artwork/font/|Font section of my site]].
+For details see the [[http://feherke.github.io/artwork/font/|Font section of my site]].
